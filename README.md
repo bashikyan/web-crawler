@@ -189,8 +189,4 @@ Pull requests-ը ողջունվում են! Խնդիրների կամ բարել
 4. Push branch-ը (`git push origin feature/amazing-feature`)
 5. Բացեք Pull Request
 
-## Հեղինակ
 
-Ձեր անունը - your.email@example.com
-
-GitHub: [@yourusername](https://github.com/yourusername)
